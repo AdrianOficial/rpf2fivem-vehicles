@@ -1,0 +1,10 @@
+# generated outputs
+vehshare_cw_manifest.json
+vehshare_fix_report.txt
+library_ytd/
+backup_vehshare_fix/
+*.bak
+vehshare
+
+node_modules/
+__pycache__/
